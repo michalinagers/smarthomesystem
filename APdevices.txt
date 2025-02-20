@@ -1,0 +1,3 @@
+BedroomLight Light 1 56 0.000000
+BedroomSpeaker Speaker 1 23
+BathroomSensor TempSensor 1 33 33
